@@ -50,6 +50,17 @@
 
 ## 🚀 Featured Projects
 
+
+### 🔹 Bewerbungs-Tracker (Flask)
+
+✔️ Python (Flask) + SQLite
+✔️ Full CRUD (Create, Read, Update, Delete)
+✔️ Clean UI & Responsive Design
+
+👉 https://github.com/nizaro91-creator/bewerbungs-tracker-flask
+
+---
+
 ### 🔹 Dynamic Portfolio Web App (PHP MVC)
 
 ✔️ PHP + MySQL
@@ -70,15 +81,6 @@
 
 ---
 
-### 🔹 Bewerbungs-Tracker (Flask)
-
-✔️ Python (Flask) + SQLite
-✔️ Full CRUD (Create, Read, Update, Delete)
-✔️ Clean UI & Responsive Design
-
-👉 https://github.com/nizaro91-creator/bewerbungs-tracker-flask
-
----
 
 ## 📈 Currently Learning
 
