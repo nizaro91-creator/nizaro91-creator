@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi, I'm Nizar 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nizaro91-creator&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nizaro91-creator&layout=compact&theme=tokyonight">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=200&section=header&text=Nizar%20Zoubani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
