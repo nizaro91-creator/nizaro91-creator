@@ -12,7 +12,8 @@
 </p>
 
 <p align="center">
-💻 <b>Fachinformatiker für Anwendungsentwicklung (Umschulung)</b> <br>
+💻 <b>Fachinformatiker für Anwendungsentwicklung </b>
+  <br>
 📍 Germany 🚀 Junior Developer
 </p>
 
