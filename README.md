@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-💻 <b>Fachinformatiker für Anwendungsentwicklung (Umschulung – GFN, Essen)</b> <br>
+💻 <b>Fachinformatiker für Anwendungsentwicklung (Umschulung)</b> <br>
 📍 Germany 🚀 Junior Developer
 </p>
 
